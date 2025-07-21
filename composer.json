@@ -1,0 +1,16 @@
+{
+    "name": "dimapasok/gs",
+    "description": "Basic Student Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dimapasok\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimapasok"
+        }
+    ],
+    "require": {}
+}
